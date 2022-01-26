@@ -1,0 +1,8 @@
+Tracking the first project!!!!
+
+git ignore ---> create a gitignore file and add the name of the files/folders we want to ignore
+
+    a. touch .gitignore
+    b. include the file name in the text file that you have with extension .gitignore
+    c. save that file
+    
