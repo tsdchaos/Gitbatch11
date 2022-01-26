@@ -20,4 +20,16 @@ git ignore ---> create a gitignore file and add the name of the files/folders we
     To see which files are there in the staging area, we have the command git ls-files
 
 
-    
+    To remove any file from the staging area use the command
+    git rm --cached filename
+
+
+    to look at commits
+    git log
+
+
+    Head --> master (points to the commit in repo which you have in your working directory ::::: by default it points
+    to the latest commit)
+
+
+    git diff shows us the difference in the files in "stagin area" and the "working directory"
