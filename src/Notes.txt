@@ -5,4 +5,19 @@ git ignore ---> create a gitignore file and add the name of the files/folders we
     a. touch .gitignore
     b. include the file name in the text file that you have with extension .gitignore
     c. save that file
+
+    and proceed with your regular stuff happily
+    your file/folders name in the .gitignore file wont be tracked
+
+
+    Use git add . to track all files
+    the files appearing in gree represents that they are in the staging area
+
+
+    git commit -m "message" to make a commit in the repo
+
+
+    To see which files are there in the staging area, we have the command git ls-files
+
+
     
